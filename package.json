@@ -1,0 +1,9 @@
+{
+  "name": "ytboard-web",
+  "description": "Web application front for Ytboard",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
